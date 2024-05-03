@@ -1,11 +1,11 @@
-[![@jungietrash](https://raw.githubusercontent.com/jungietrash/jungietrash/main/assets/jungie.gif)](https://facebook.com/Jjforevs)
+[![@jreycian](https://raw.githubusercontent.com/jungietrash/jungietrash/main/assets/jungie.gif)](https://facebook.com/jreycian)
 ------------------------------------------- 
 ### Socials: 
-<a href="https://www.linkedin.com/in/jungie-gerez-64667924a/"><img src="https://img.shields.io/badge/jungiegerez-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/Jjforevs/"><img src="https://img.shields.io/badge/jungiegerez-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jreycian/"><img src="https://img.shields.io/badge/jreycian-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/Jjforevs/"><img src="https://img.shields.io/badge/jungiegerez-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
 ### How to reach me: 
-<a href="mailto: gerezjungie393@gmail.com">
-<img src="https://img.shields.io/badge/-gerezjungie393%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<a href="mailto: jrsaraosos@gmail.com">
+<img src="https://img.shields.io/badge/-jrsaraosos%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 ### Current Status Quo:
 
