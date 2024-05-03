@@ -1,7 +1,7 @@
-[![@jreycian](https://raw.githubusercontent.com/jungietrash/jungietrash/main/assets/jungie.gif)](https://facebook.com/jreycian)
+[![@jreycian](https://raw.githubusercontent.com/jreycian/jreycian/main/assets/nestor.gif)](https://facebook.com/jreycian)
 ------------------------------------------- 
 ### Socials: 
-<a href="https://www.linkedin.com/in/jreycian/"><img src="https://img.shields.io/badge/jreycian-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/Jjforevs/"><img src="https://img.shields.io/badge/jungiegerez-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jreycian/"><img src="https://img.shields.io/badge/jreycian-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/jreycian/"><img src="https://img.shields.io/badge/jreycian-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
 ### How to reach me: 
 <a href="mailto: jrsaraosos@gmail.com">
@@ -15,7 +15,7 @@
 
 - 💬 Worked with Agile and Scrum programming methodologies and have been involved in maintaining versions of source code using Microsoft's Visual Studio TFS and Git for Web Development.
 
-- 💬 Anyway, if you'd like to work with me, or you'd like me to help you in any way, please drop me a message here or via e-mail at <a href="mailto:gerezjungie393@gmail.com">gerezjungie393@gmail.com</a>. My DMs are open even without connecting with me.
+- 💬 Anyway, if you'd like to work with me, or you'd like me to help you in any way, please drop me a message here or via e-mail at <a href="mailto:jrsaraosos@gmail.com">jrsaraosos@gmail.com</a>. My DMs are open even without connecting with me.
 
 ------------------------------------------- 
 
@@ -42,4 +42,4 @@
 ------------------------------------------- 
 
 ### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{jungietrash}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{jreycian}/count.svg)
